@@ -7,7 +7,7 @@ Je vous conseille d'héberger les liens de vos images/gifs via [le site Tinyurl]
 <br/> <br/>
 Pour modifier la taille de la première image, il suffit de modifier les balises "width" et "height" de la class ".signimg2", même règlages à effectuer pour la seconde image que vous pourrez retrouver sous la class ".signimg2bis".<br/><br/>
 
-**_⟶ couleurs/tailles de police/police etc..._**
+**_⟶ Couleurs/tailles de police/police etc..._**
 
 Tout ce qui concerne le titre de la signature se trouve sous la class "**.tsign2**". Vous pouvez y modifier la couleur (color: #CODECOULEUR;), la police (font-family: Nomdevotrepolice;), la taille de police (font-size:XXpx;).
 
